@@ -53,6 +53,38 @@ Harol Hernan Torres Neuta
 Licencia
 Creative Commons 4.0
 
-*Conclusión
+*Conclusiónes
 
-El desarrollar aplicaciones desde una vista de programacion orientada a objetos habilita nuevos SKILL en pro de fortalecer conceptos basicos y su puesta en marcha. Adicionalmente la integracion de arquitecturas en un modelo de tres capas permite un performance adecuado y una definicion en una linea base a nivel de transaccionalidad. Esto se resume en el fortalecimiento de conocimientos en desarrollo desde las diferentes tecnologias que se pueden tener.
+El programa diseñado implementa una metodología de 
+desarrollo scrum muy conocida que facilita la 
+implementación de la misma con una gran planeación
+por parte de los desarrolladores y equipo de trabajo, 
+con el fin de tener un producto final de gran calidad 
+para el usuario. Sin embargo, la metodología lleva 
+consigo una gran responsabilidad para un trabajo en 
+conjunto desde los lideres, los programadores entre 
+otros, esto funciona con compromiso y una 
+organización desde el inicio, que nos permita
+aprovechar todas las funcionalidades de la metodología
+scrum.
+- El programa desarrollado implementa un modelo de
+infraestructura, ya que se el programa en un aplicativo 
+web, con conexión a una base de datos, nos permite 
+impactar positivamente en el concepto que se 
+desarrollan los aplicativos y como de funcional puede 
+ser un blog con toda la información y una gran variedad 
+de funciones que hacen amigable al usuario final, con 
+el manejo de información y el contenido del mismo.
+- El programa cuenta con una gran variedad de 
+herramientas a las cuales poder sacar provecho y 
+adaptar el modelo a diversos temas de interés publico 
+no solo relacionarlo con la serie estadounidense 
+STRANGER THINGS, las cuales son:
+1000.254.228 MICHAEL ANDRES LOPEZ CARDENAS 6
+A. Permitir administrar la página web.
+B. Permitir un login por cada usuario.
+C. Consultar toda la información relacionada con la serie.
+D. Proporcionar material de calidad como imágenes,
+videos, información de la misma.
+E. Facilitar la actualización de la información.
+F. Adaptabilidad a cualquier dispositivo
