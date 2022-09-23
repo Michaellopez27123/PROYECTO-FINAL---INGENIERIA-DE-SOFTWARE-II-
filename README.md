@@ -75,12 +75,13 @@ desarrollan los aplicativos y como de funcional puede
 ser un blog con toda la información y una gran variedad 
 de funciones que hacen amigable al usuario final, con 
 el manejo de información y el contenido del mismo.
+
 - El programa cuenta con una gran variedad de 
 herramientas a las cuales poder sacar provecho y 
 adaptar el modelo a diversos temas de interés publico 
 no solo relacionarlo con la serie estadounidense 
 STRANGER THINGS, las cuales son:
-1000.254.228 MICHAEL ANDRES LOPEZ CARDENAS 6
+
 A. Permitir administrar la página web.
 B. Permitir un login por cada usuario.
 C. Consultar toda la información relacionada con la serie.
